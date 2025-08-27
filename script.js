@@ -129,8 +129,3 @@ class Cycling extends Workout {
     return this.speed;
   }
 }
-
-// const run1 = new Running([40.73061, -73.935242], 10, 90, 80);
-// const cycling1 = new Cycling([40.73061, -73.935242], 27, 95, 523);
-// console.log(run1, cycling1);
-// const app = new App();
