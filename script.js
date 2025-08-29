@@ -1,5 +1,17 @@
 'use strict';
 
+// TODOs
+// Ability to edit a workout
+// Ability to delete a workout
+// Ablitity to delete all workous
+// Ability to sort workouts by a certain field (e.g. date, distance, duration, etc.)
+// Rebuild Running & Cycling objects coming from local storage
+// More realistic error and confirmation messages
+// Ability to position the map to show all workouts [very hard]
+// Ability to draw lines and shapes instead of just points [very hard]
+// Geocode location from coordinates ("Rin in Faro, Portugal") [only after asynchronous Javascript section]
+// Display weather data for workout time and place [only after asynchronous JavaScript section]
+
 // prettier-ignore
 const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
